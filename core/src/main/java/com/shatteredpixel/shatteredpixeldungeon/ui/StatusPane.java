@@ -49,6 +49,7 @@ import com.watabou.utils.GameMath;
 import java.util.ArrayList;
 
 public class StatusPane extends Component {
+//public class 
 
 	private NinePatch bg;
 	private Image avatar;

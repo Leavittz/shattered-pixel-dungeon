@@ -43,6 +43,13 @@ public class Blooming extends Weapon.Enchantment {
 	public int proc(Weapon weapon, Char attacker, Char defender, int damage) {
 		int level = Math.max( 0, weapon.buffedLvl() );
 
+
+/*
+ * ^^^^^^^^^^^^^^^^^^^^^
+ * This is a neat effect and i need to research how it works.
+ * 
+ */
+
 		// lvl 0 - 33%
 		// lvl 1 - 50%
 		// lvl 2 - 60%
